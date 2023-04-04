@@ -1,0 +1,8 @@
+Instructions.
+
+
+1-First open jupyter and load test assignment folder. 2-Run text_analyser.ipynb file.
+3-It will automaticaly create many txt files which contains text from these urls.
+4.After running it will save data in excel file as required and then converted into csv file is 
+
+5 for your ease i have created a copy of text_analyser.ipynp in instructions folder (or you can find it in the bottom of test assignment folder)
